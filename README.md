@@ -28,4 +28,8 @@ See you on [Koding](https://koding.com)!
 ### References
 
 IDE is written with Koding's in house developed [KD Framework](https://github.com/koding/kd), to understand the code better you may want to check it out.
-<!-- GitAds-Verify: 6WAOOJLT2ZMOQWOIVLXO7MOQZ93KZ8NM -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/ide@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/ide@github)
+
+
